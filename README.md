@@ -81,16 +81,28 @@ Il est possible d'utiliser des cépages rouges rouges pour élaborer des vins bl
 
 ### Styles de vins : caractéristiques notables
 
-- la **douceur**
-    - **sec**
-    - **douceur moyenne**
-    - **doux**
-- l'**acidité**
-- les **tanins**
-- l'**alcool**
-- le **corps**
+- la **douceur** est due à la présence de sucre dans le vin
+    - **sec** : un vin sec contient peu ou pas de sucre. La plupart des vins sont secs, la levure a convertit tout le sucre du jus de raisin en alcool
+    - **douceur moyenne** : le plus souvent des vins blancs ou rosé. 2 principales techniques :
+        - levures éliminés avant d'avoir converti tout le sucre en alcool
+        - jus de raison non fermenté ajouté à un vin sec
+    - **doux** : contient tellement de sucre qu'il peut sembler :  épais. 2 principales techniques :
+        - raisin tellement sucré que la fermentation s'arrête avant que les levures aient consommé tout le sucre (Sauternes, certains Rieslings allemands)
+        - pour les vins fortifiés, les levures sont tuées par ajout d'alcool distillé avant d'avoir consommé tout le sucre (Porto, Xérès)
+- l'**acidité** : acidité du vin résulte de celle du jus de raisin
+    - confère de la *fraîcheur* au vin
+    - elle fait saliver
+    - acidité trop élevée est désagréable, trop faible le vin perd de sa fraîcheur
+    - l'acidité est très importante dans les vins doux car elle contrebalance la douceur pour ne pas que celle-ci soit désagréable
+- les **tanins** : caractéristique des vins rouges issue des pellicules des raisins
+    - la tannicité dépend du cépage et de la vinification
+    - les tannins peuvent être amers
+    - peuvent produire une sensation de sècheresse en bouche
+    - Bordeaux très tanique, Beaujolais et Pinot noir peu tannique
+- l'**alcool** : la plupart des vins tranquilles entre 11,5% et 14%. Cependant certains comme le White Zinfandel de Californie (rosé) ont peu d'alcool, d'autres comme le Châteauneuf-du-pape sont forts en alcool
+- le **corps** : utilisé pour décrire la sensation générale produite par un vin en bouche. Les vins au corps puissant semblent visqueux et remplissent bien la bouche, ceux au corps léger semblent plus délicats.
 
-### Styles de vins : arômes et saveurs du vun
+### Styles de vins : arômes et saveurs du vin
 
 
 ## Principaux cépages
