@@ -51,7 +51,7 @@ Vin blanc :
 - **Foulage** : après la récolte, éclatement des baies de raisin pour en extraire le moût sans écraser les pépins
 - **Pressurage** : pressurage pour récupérer le reste du jus
 - **Fermentation** : ajout de levures au jus de raison et fermentation dans des cuves en acier inoxydable ou des fûts de chêne
-- **Elevage** : conservatiion du vin après la fermentation dans des cuves en inox ou des fûts de chêne
+- **Elevage** : conservation du vin après la fermentation dans des cuves en inox ou des fûts de chêne
 - **Mise en bouteille**
 
 Vin rouge et rosé :
@@ -104,8 +104,38 @@ Il est possible d'utiliser des cépages rouges rouges pour élaborer des vins bl
 
 ### Styles de vins : arômes et saveurs du vin
 
+Certains arômes sont dus aux raisins, d'autres se développent pendant la vinification et l'élevage
+- **fruits** : le type de fruit dépend du cépage, et également de la maturité du raisin
+- **chêne** : l'élevage en fût de chêne peut conférer au vin des arômes de cèdre, clou de girogle, noix de coco et vanille
+- **autres** : herbe coupée, fleurs, végétaux, terre, champignon, cuir...
+
 
 ## Principaux cépages
+
+Le cépage ou l'assemblage de cépages utilisé pour produire un vin est déterminant pour le style et la qualité d'un vin. Il en existe des centaines mais seuls quelque-uns sont reconnus dans le monde entier
+
+### Principaux cépages blancs
+
+- **Chardonnay** : produit des vins secs : Bourgognes blancs, Champagne, Australie, Californie
+    - climat frais : acidité élevée, corps léger à moyen, arômes de fruits verts (pomme) et d'agrumes (citron)
+    - climat chaud : acidité moyenne, corps moyen à puissant, saveur de fruits à noyaux (pêche) et de fruits exotiques (ananas)
+    - peut présenter des notes de vanille dû à l'élevage en bois
+- **Sauvignon blanc** : produit des vins secs à l'acidité élevée rafraîchissante
+    - corps moyen, arômes de fruits verts (pomme), d'agrûmes (citron, pamplemousse) et des notes végétales (asperge, poivron vert, herbe coupée)
+    - souvent fermenté dans une cuve en inox et pas élevé en fût de chêne pour préserver les arômes du cépage
+    - exemple de vins : Sancerre en France, Nouvelle-Zélande
+- **Pinot gris** : produit des vins légers et généralement secs
+    - acidité élevée, saveur de poire et de citron
+    - rarement élevé en fût de chêne
+    - principalement associé à l'Italie
+- **Riesling** : produit des vins de sec à doux
+
+### Principaux cépages rouges
+
+- **Cabernet sauvignon**
+- **Merlot**
+- **Pinot noir**
+- **Syrah**
 
 
 ## Exemles de vins
