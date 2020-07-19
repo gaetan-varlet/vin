@@ -204,12 +204,12 @@ Vins rouges :
 - corps moyen à puissant (Syrah) : Température ambiante (15-18°C)
 - corps moyen à puissant (Syrah) : Légérement frais (13°C)
 
-### Verres
+### Verres
 
 - la calice est plus étroit au niveau du buvant, pour concentrer les arômes du vin dans le verre pour mieux les apprécier
 - les verres à vin rouge sont plus que les verres à vins blancs, les effervescents sont servis dans des flûtes
 
-### Conservation du vin
+### Conservation du vin
 
 une fois ouvert, le vin commence lentement à perdre son goût et sa fraîcheur au contact de l'air
 - conserver la bouteille bouchée au frigo permet de la conserver plus longtemps
