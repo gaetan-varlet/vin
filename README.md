@@ -128,23 +128,122 @@ Le cépage ou l'assemblage de cépages utilisé pour produire un vin est déterm
     - acidité élevée, saveur de poire et de citron
     - rarement élevé en fût de chêne
     - principalement associé à l'Italie
-- **Riesling** : produit des vins de sec à doux
+- **Riesling** : produit des vins de sec à doux, à l'acidité élevée
+    - corps léger à moyen, fermentation en cuve inox et pas d'élevage en fût de chêne
+    - arômes de fleurs et de fruits verts (pomme), agrumes (citron, citron vert), fruits à noyaux (pêche, abricot)
+    - en Allemagne, de sec à doux. En Alsace et en Australie, vins secs
 
 ### Principaux cépages rouges
 
-- **Cabernet sauvignon**
-- **Merlot**
-- **Pinot noir**
-- **Syrah**
+- **Cabernet sauvignon** : très cultivé dans le monde entier, produit des vins secs aux tannins puissants et à la forte acidité
+    - de corps moyen à puissant, arômes de fruits noirs (cassis, cerise noire) et de végétaux (poivron vert, menthe)
+    - vins souvent élevés en fût de chêne, ce qui donne des arômes de cèdre et de vanille
+    - très tanique, il est souvent associé à d'autres cépages, par exemple le merlot à Bordeaux
+    - très cultivé également en Californie, en Australie, au Chili, en Afrique du Sud
+- **Merlot** : produit des vins secs, de corps moyen à puissant, acidité et tannins moyens
+    - saveurs de fruits rouges (fraise, prune) aux fruits noirs (mûre, cerise noire)
+    - souvent élevés en fût de chêne, ce qui donne des arômes de vanille
+    - très cultivé au Chili et en Californie pour produire des vins souples et fruités
+- **Pinot noir** : produit des vins secs, légers et peu tanniques avec une acidité élevée
+    - saveurs de fruits rouges (fraise, cerise, framboise)
+    - souvent élevé en fût de chêne, ce qui donne des arômes de vanille et de clou de girofle
+    - sert à la production des bourgognes rouges, et aussi principal cépage rouge de Nouvelle-Zélande
+    - habituellement vinifié en monocépage pour les vins rouges
+    - sert également dans la production de champagne en assemblage avec le chardonnay
+- **Syrah** : produit des vins secs de corps moyen à puissant, avec des tanins puissants et une acidité moyenne
+    - saveur de fruits noirs (mûre, cerise noire) et d'épices (poivre noir, réglisse)
+    - souvent élevé en fût de chêne, ce qui donne des arômes de vanille et de noix de coco
+    - les Côtes du Rhône septentrionales produisent des vins de corps moyen aux arômes de fruits noirs frais (mûre) et de poivre
+    - les régions chaudes d'Australie produisent des *shiraz* des vins au corps puissant et aux saveurs de fruits noirs confiturés (cerise noire) et de réglisse
 
 
 ## Exemles de vins
 
+- **Champagne** : vin effervescent français produit à partir de chardonnay et de pinot noir
+    - généralement sec avec une acidité élevée, des arômes de fruits verts (pomme) et d'agrumes (citron) ainsi que des notes de pain
+- **Sancerre** : vin blanc sec français élaboré à partir de sauvignon blanc, de corps moyen, généralement non boisé
+    - forte acidité et arômes de fruits verts (pomme) et des notes végétales (herbe coupée)
+- **Chablis** : vin blanc sec français élaboré à partir de chardonnay, léger, non boisé
+    - acidité élevée et arômes de fruits verts (pomme) et d'agrumes (citron)
+- **Bourgogne** : issus de la région Bourgogne, blancs ou rouges
+    - blancs élaborés avec du chardonnay, boisé ou non, sec, de corps moyen, davantage de saveurs de fruits mûrs, comme les agrumes (citron) et les fruits à noyau (pêche) que le chablis
+    - rouges élaborés à partir de pinot noir, secs, peu tanniques et légers, avec une acidité élevée. Saveur de fruits rouges (framboise, cerise) et de vanille et clou de girofle avec l'élevage en fûts
+- **Bordeaux** : la plupart des vins sont rouges, avec une acidité élevée et des tanins puissants
+    - vins rouges avec acidité élevée et tanins puissants, et secs, de corps moyen à puissant, avec des arômes de fruits noirs (mûre, cassis) et des notes de cèdre dues à l'élevage en fûts, généralement un assemblage de cabernet sauvignon et merlot
+- **Prosecco** : vin blanc effervescent d'Italie, léger et aux arômes de fruits verts (poire) et de fleurs. Peut-être sec ou de douceur moyenne
+- **Cava** : vin effervescent sec espagnol. Saveurs de fruits verts (poire) et d'agrumes (citron)
+- **White zinfandel** : rosé de Californie, non boisé et faible en alcool, de douceur moyenne, avec des saveurs de fruits rouges (fraise et framboise)
+- **Beaujolais** : vin rouge sec et léger, non boisé, saveurs de fruits rouges (framboise, cerise) et des tannins faibles
+- **Côtes-du-rhône** : vin rouge sec, de corps moyen, saveurs de fruits rouges (fraise, prune) et de poivre. Boisé ou non boisé
+- **Chianti** : vin rouge sec italien, de corps moyen, avec des tannins puissants et une acidité élevée, saveurs de fruits rouge (cerise et prune) et arômes de clou de girofle dus à l'élevage en fûts
+- **Rioja** : vin rouge sec espagnol, de corps moyen à puissant, saveurs de fruits rouge (fraise) et arômes de vanille dus à l'élevage en fûts
+- **Châteauneuf-du-pape** : vin rouge sec au corps puissant et fort en alcool, saveurs de fruits rouges (fraise) et notes de clou de girofle dîes à l'élevage en fûts
+- **Sauternes** : vin blanc doux (liquoreux) produit à Bordeaux. De corps puissant, saveurs de fruits à noyau (abricot), de miel et de vanille (élevage en fûts) équilibrées par une forte acidité
+- **Xérès** : vin blanc fortifié d'Espagne. Peut-être sec, de douceur moyenne ou doux
+- **Porto** : vin blanc fortifié du Portugal. Doux et fort en alcool, il y a plein de styles différents. Généralement rouge, avec un corps et des tanins puissants, et des saveurs de fruits noirs (mûre)
+
 
 ## Stockage et service du vin
+
+### Stockage du vin
+
+une mauvaise conservation peut altérer le vin (perte d'arômes, apparition de défauts). Il faut respecter 3 principes :
+- conservation à long terme dans une **température fraîche et constante**
+- **à l'abri de la lumière** naturelle ou artificielle, qui fait vieillir prématurément le vin
+- les vins fermés par un bouchon de liège doivent être conservées **couchées**, pour que le bouchon reste humide. S'il devient sec, l'air rentre et fait vieillir prématurément le vin
+
+### Température de service
+
+Vins blancs, rosés et effervescents :
+- vins doux (Sauternes) : Bien frais (6-8°C)
+- vins effervescents (Champagne) : Bien frais (6-8°C)
+- vins blancs et rosés, légers ou de corps moyen (Pinot gris) : Frais (7-10°C)
+- vins blancs au corps puissant (Chardonnay boisé) : Légèrement frais (10-13°C)
+
+Vins rouges :
+- corps moyen à puissant (Syrah) : Température ambiante (15-18°C)
+- corps moyen à puissant (Syrah) : Légérement frais (13°C)
+
+### Verres
+
+- la calice est plus étroit au niveau du buvant, pour concentrer les arômes du vin dans le verre pour mieux les apprécier
+- les verres à vin rouge sont plus que les verres à vins blancs, les effervescents sont servis dans des flûtes
+
+### Conservation du vin
+
+une fois ouvert, le vin commence lentement à perdre son goût et sa fraîcheur au contact de l'air
+- conserver la bouteille bouchée au frigo permet de la conserver plus longtemps
+- pour la conserver plus longtemps :
+    - **systèmes de vide** : pompe qui retire l'air de l'intérieur de la bouteille
+    - **systèmes à couverture de gaz** : pompe qui introduit un gaz neutre pour chasser l'air, sans affecter le vin
 
 
 ## Introduction à la dégustation
 
+procéder de la même manière pour tous les vins :
+- aucune odeur extérieure (tabac, parfum...)
+- surface blanche pour évaluer l'apparence
+- verre avec un large calice rétréci vers le haut
+- palais propre sans saveur résiduelle de dentifrice ou de café
+
+Approche systématique de la dégustation de vin du WSET niveau 1
+- **Apparence** : blanc, rosé, rouge
+- **Nez** : caractéristiques des arômes (fruité, boisé, ...)
+- **Palais** :
+    - caractéristiques notables : douceur, acidité, tannins, alcool, corps
+    - caractéristiques des saveurs (fruité, boisé, ...)
+
 
 ## Accords mets et vins
+
+Certaines caractéristiques gustatives auront généralement un effet positif ou néfatif sur le vin
+
+| Si le plat est                  | alors le vin semble
+| :---                            | :---
+| sucré                           | plus astringent et amer, plus acide, moins doux et moins fruité
+| riche en unami                  | plus astringent et amer, plus acide, moins doux et moins fruité
+| salé                            | moins astringent et amer, moins acide, plus fruité, avec un corps plus puissant
+| acide                           | moins astringent et amer, moins acide, plus doux et fruité
+| marqué par des saveurs intenses | écrasé par les saveurs de la nourriture
+| gras/huileux                    | moins acide
+| pimenté                         | accentuer la saveur piquante, l'alcool du vin semble plus présent
