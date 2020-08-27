@@ -68,7 +68,7 @@ Il est possible d'utiliser des cépages rouges pour élaborer des vins blancs ca
 
 ### Types de vins
 
-- **Vins tranquilles** : vins non effervescents titrant entre 8% et 15%, le plus souvent entre 11,5% et 14%. Ils portent le nom de leur région ou de leur cépages
+- **Vins tranquilles** : vins non effervescents titrant entre 8% et 15%, le plus souvent entre 11,5% et 14%. Ils portent le nom de leur région ou de leur cépage
 - **Vins effervescents** : vins mousseux ou pétillants due au CO2 produit par la fermentation qui reste dissous dans le vin. Exemples : Champagne français, Cava espagnol, Prosecco italien
 - **Vins fortifiés** : ajout d'alcool dans le vin, titrant entre 15% et 22%. Exemple : Xérès en Espagne, Porto au Portugal
 
@@ -82,10 +82,10 @@ Il est possible d'utiliser des cépages rouges pour élaborer des vins blancs ca
 
 - la **douceur** est due à la présence de sucre dans le vin
     - **sec** : un vin sec contient peu ou pas de sucre. La plupart des vins sont secs, la levure a convertit tout le sucre du jus de raisin en alcool
-    - **douceur moyenne** : le plus souvent des vins blancs ou rosé. 2 principales techniques :
-        - levures éliminés avant d'avoir converti tout le sucre en alcool
+    - **douceur moyenne** : le plus souvent des vins blancs ou rosés. 2 principales techniques :
+        - levures éliminées avant d'avoir converti tout le sucre en alcool
         - jus de raison non fermenté ajouté à un vin sec
-    - **doux** : contient tellement de sucre qu'il peut sembler :  épais. 2 principales techniques :
+    - **doux** : contient tellement de sucre qu'il peut sembler épais. 2 principales techniques :
         - raisin tellement sucré que la fermentation s'arrête avant que les levures aient consommé tout le sucre (Sauternes, certains Rieslings allemands)
         - pour les vins fortifiés, les levures sont tuées par ajout d'alcool distillé avant d'avoir consommé tout le sucre (Porto, Xérès)
 - l'**acidité** : acidité du vin résulte de celle du jus de raisin
