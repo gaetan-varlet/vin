@@ -49,7 +49,7 @@
 Vin blanc :
 - **Foulage** : après la récolte, éclatement des baies de raisin pour en extraire le moût sans écraser les pépins
 - **Pressurage** : pressurage pour récupérer le reste du jus
-- **Fermentation** : ajout de levures au jus de raison et fermentation dans des cuves en acier inoxydable ou des fûts de chêne
+- **Fermentation** : ajout de levures au jus de raisin et fermentation dans des cuves en acier inoxydable ou des fûts de chêne
 - **Elevage** : conservation du vin après la fermentation dans des cuves en inox ou des fûts de chêne
 - **Mise en bouteille**
 
@@ -57,11 +57,11 @@ Vin rouge et rosé :
 - **Foulage** : comme pour le vin blanc, sauf que les pellicules sont récupérées en plus du jus
 - **Fermentation** : ajout de levures au jus de raisin et pellicules pour récupérer les pigments et les tanins
 - **Soutirage** : séparation du vin de ses pellicules par soutirage une fois que la fermentation est terminée pour le vin rouge. Pour le rosé, cela se produit au bout de quelques heures puis reprise de la fermentation sans les pellicules
-- **Pressurage** : les pellicules sont pressées pour récupérer le teste de vin
+- **Pressurage** : les pellicules sont pressées pour récupérer le reste de vin
 - **Elevage** : comme pour le vin blanc. Les rosés sont rarement élevés sous bois
 - **Mise en bouteille**
 
-Il est possible d'utiliser des cépages rouges rouges pour élaborer des vins blancs car le jus est incolore. Si les raisins sont délicatement pressés avant la fermentation, le jus obtenu est approprié à a production de vin blanc.
+Il est possible d'utiliser des cépages rouges pour élaborer des vins blancs car le jus est incolore. Si les raisins sont délicatement pressés avant la fermentation, le jus obtenu est approprié à la production de vin blanc.
 
 
 ## Types et styles de vins
