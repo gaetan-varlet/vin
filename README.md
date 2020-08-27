@@ -3,10 +3,10 @@
 
 ## Qu'est-ce que le vin ?
 
-- c'est un **jus de raison fermenté**
-- le raison pressé donne un **jus sucré** qui est transformé en vin par fermentation alcoolique
+- c'est un **jus de raisin fermenté**
+- le raisin pressé donne un **jus sucré** qui est transformé en vin par fermentation alcoolique
 
-### Composition d'un grain de raison
+### Composition d'un grain de raisin
 
 - 2 principaux types de raisin : les cépages blancs et les cépages rouges
 - la **pellicule** des cépages rouges est très colorée et contient des tannins. Celle des cépages blancs est dorée
@@ -14,7 +14,7 @@
 
 ### Fermentattion alcoolique
 
-- les levures sont des microorganismes qui mangent le sucre et le transforme en alcool et CO2. L'alcool reste dans le vin et le CO2 s'échappe dans l'atmosphère
+- les levures sont des micro-organismes qui mangent le sucre et le transforme en alcool et CO2. L'alcool reste dans le vin et le CO2 s'échappe dans l'atmosphère
 - fermentation alcoolique = **sucre** + **levures** => **alcool** + **CO2**
 
 
