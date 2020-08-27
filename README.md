@@ -176,7 +176,7 @@ Le cépage ou l'assemblage de cépages utilisé pour produire un vin est déterm
 - **Côtes-du-rhône** : vin rouge sec, de corps moyen, saveurs de fruits rouges (fraise, prune) et de poivre. Boisé ou non boisé
 - **Chianti** : vin rouge sec italien, de corps moyen, avec des tannins puissants et une acidité élevée, saveurs de fruits rouge (cerise et prune) et arômes de clou de girofle dus à l'élevage en fûts
 - **Rioja** : vin rouge sec espagnol, de corps moyen à puissant, saveurs de fruits rouge (fraise) et arômes de vanille dus à l'élevage en fûts
-- **Châteauneuf-du-pape** : vin rouge sec au corps puissant et fort en alcool, saveurs de fruits rouges (fraise) et notes de clou de girofle dîes à l'élevage en fûts
+- **Châteauneuf-du-pape** : vin rouge sec au corps puissant et fort en alcool, saveurs de fruits rouges (fraise) et notes de clou de girofle dues à l'élevage en fûts
 - **Sauternes** : vin blanc doux (liquoreux) produit à Bordeaux. De corps puissant, saveurs de fruits à noyau (abricot), de miel et de vanille (élevage en fûts) équilibrées par une forte acidité
 - **Xérès** : vin blanc fortifié d'Espagne. Peut-être sec, de douceur moyenne ou doux
 - **Porto** : vin blanc fortifié du Portugal. Doux et fort en alcool, il y a plein de styles différents. Généralement rouge, avec un corps et des tanins puissants, et des saveurs de fruits noirs (mûre)
@@ -201,12 +201,12 @@ Vins blancs, rosés et effervescents :
 
 Vins rouges :
 - corps moyen à puissant (Syrah) : Température ambiante (15-18°C)
-- corps moyen à puissant (Syrah) : Légérement frais (13°C)
+- léger (Beaujolais) : Légérement frais (13°C)
 
 ### Verres
 
 - la calice est plus étroit au niveau du buvant, pour concentrer les arômes du vin dans le verre pour mieux les apprécier
-- les verres à vin rouge sont plus que les verres à vins blancs, les effervescents sont servis dans des flûtes
+- les verres à vin rouge sont plus grands que les verres à vins blancs, les effervescents sont servis dans des flûtes
 
 ### Conservation du vin
 
@@ -235,7 +235,7 @@ Approche systématique de la dégustation de vin du WSET niveau 1
 
 ## Accords mets et vins
 
-Certaines caractéristiques gustatives auront généralement un effet positif ou néfatif sur le vin
+Certaines caractéristiques gustatives auront généralement un effet positif ou négatif sur le vin
 
 | Si le plat est                  | alors le vin semble
 | :---                            | :---
